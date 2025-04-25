@@ -6,7 +6,7 @@ lang: en
 order: 4
 ---
 
-Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an Associate Degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
+Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an associate degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
 
 Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
 
