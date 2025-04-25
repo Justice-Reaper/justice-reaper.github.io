@@ -1,6 +1,6 @@
 ---
 # the default layout is 'pagoe'
-title: ¡Bienvenido a mi blog! 👋
+title: ¡Welcome to my blog! 👋
 icon: fas fa-info-circle
 lang: en
 order: 4
