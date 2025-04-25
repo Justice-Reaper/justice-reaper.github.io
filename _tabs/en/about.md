@@ -21,7 +21,7 @@ When it comes to languages, I regard English as essential in this field. That’
 - 📫 Find my resume, blog, and socials on [Linktree](https://linktr.ee/Justice_Reaper)
 - ⚡ I love learning and always seek new challenges
 
-## Certifications 🎓
+## Certificates 🎓
 Currently preparing for
 - OSCP (Offensive Security Certified Professional)
 - BSCP (Burp Suite Certified Practitioner)
