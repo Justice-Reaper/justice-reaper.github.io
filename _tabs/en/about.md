@@ -10,9 +10,9 @@ Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been pass
 
 Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
 
-Working in this field, I've encountered many repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
+Working in this field, I've encountered some repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
 
-I strongly believe that English is essential in this industry. I earned my Cambridge B1 certification last year and am currently working toward my B2
+I strongly believe that English is essential in this industry. I earned my Cambridge B1 certification last year and I'm currently working toward my B2
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
