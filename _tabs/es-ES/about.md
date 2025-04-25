@@ -26,25 +26,25 @@ Respecto a los idiomas, considero que el inglés es una skill básica en este ca
 
 Actualmente estoy preparándome para las siguientes certificaciones
 
-- **OSCP (Offensive Security Certified Professional)**
-- **BSCP (Burp Suite Certified Practitioner)**
+- OSCP (Offensive Security Certified Professional)
+- BSCP (Burp Suite Certified Practitioner)
 
 ## Titulaciones 📜
 
-- **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ## Idiomas 🌍
 
-- **Español** - Nativo
-- **Inglés** - Nivel B1 (actualmente preparándome el B2 de Cambridge)
+- Español - Nativo
+- Inglés - Nivel B1 (actualmente preparándome el B2 de Cambridge)
 
 ## Proyectos Destacados 🌟
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando
 
-- **[Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io)** -  Mi blog personal donde subo writeups de Portswigger y HackTheBox
-- **[AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git)** - Script para automatizar la instalación y configuración de un entorno BSPWM en Kali Linux
-- **[rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git)** - Herramienta para enumerar el Active Directory a través del servicio RPC
-- **[TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git)** - Proyecto de fin de grado de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-- **[graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git)** - convierte un JSON de GraphQL en un formato URL encoded
-- **[httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git)** - Escáner de puertos que utiliza proxies HTTP
+- [Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io) - Mi blog personal donde subo writeups de Portswigger y HackTheBox
+- [AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git) - Script para automatizar la instalación y configuración de un entorno BSPWM en Kali Linux
+- [rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git) - Herramienta para enumerar el Active Directory a través del servicio RPC
+- [TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git) - Proyecto de fin de grado de Desarrollo de Aplicaciones Multiplataforma (DAM)  
+- [graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git) - Convierte un JSON de GraphQL en un formato URL encoded
+- [httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git) - Escáner de puertos que utiliza proxies HTTP
