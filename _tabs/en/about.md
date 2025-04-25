@@ -6,17 +6,17 @@ lang: en
 order: 4
 ---
 
-Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an associate degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
+Let me introduce myself. I'm Sergio, I'm 23 years old, and I’ve always been passionate about technology, so much so that three years ago I decided to make it my career. I started by earning an associate’s degree in Multiplatform Application Development (MAD), where I developed multiple desktop applications using Java and mobile apps with Kotlin
 
-Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles while maintaining a regular posting schedule as I prepare for my OSCP and BSCP certification
+After that, I specialized in pentesting as I found it the most fulfilling area of cybersecurity. Moreover, I also run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. So far, I have published over 230 articles while maintaining a regular posting schedule. I am doing this while preparing for my OSCP and BSCP certifications 
 
 Throughout my journey in this field, I’ve encountered tasks that I found tedious or repetitive. To solve this, I've developed some tools using Bash and Python to automate these processes, allowing me to focus on what truly matters
 
-When it comes to languages, I see English as essential in this field. That’s why I earned my Cambridge B1 certificate last year, and I’m now working toward my B2
+When it comes to languages, I regard English as essential in this field. That’s why I earned my Cambridge B1 certificate last year, and I’m now working toward my B2 exam
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
-- 💪 Free time = hitting the gym and gaming
+- 💪 I spend my free time at the gym and playing video games
 - 💼 Open to job opportunities
 - 📫 Find my resume, blog, and socials on [Linktree](https://linktr.ee/Justice_Reaper)
 - ⚡ I love learning and always seek new challenges
@@ -27,7 +27,7 @@ Currently preparing for
 - BSCP (Burp Suite Certified Practitioner)
 
 ## Education 📜
-- Multiplatform Application Development (DAM)
+- Multiplatform Application Development (MAD)
 
 ## Languages 🌍
 - Spanish – Native
@@ -35,9 +35,9 @@ Currently preparing for
 
 ## Featured Projects 🌟
 Here are some of my key projects:
-- [Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io) – My personal blog with PortSwigger & HTB write-ups
+- [Justice-Reaper.github.io](https://github.com/Justice-Reaper/Justice-Reaper.github.io) – My personal blog with PortSwigger & HackTheBox write-ups
 - [AutoBspwmKali](https://github.com/Justice-Reaper/AutoBspwmKali.git) – Script to auto-install & configure BSPWM on Kali Linux
 - [rpcEnum](https://github.com/Justice-Reaper/rpcEnum.git) – Tool for Active Directory enumeration via RPC
-- [TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git) – Final project for my Multiplatform App Dev degree
+- [TFG-DAM](https://github.com/Justice-Reaper/TFG-DAM.git) – Final project for my associate’s degree in Multiplatform Application Development (MAD)
 - [graphQLConverter](https://github.com/Justice-Reaper/graphQLConverter.git) – Converts GraphQL JSON to URL-encoded format
 - [httpProxyPortScanner](https://github.com/Justice-Reaper/httpProxyPortScanner.git) – Port scanner using HTTP proxies
