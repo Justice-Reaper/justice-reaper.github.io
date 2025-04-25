@@ -6,13 +6,13 @@ lang: en
 order: 4
 ---
 
-Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been passionate about technology, though I only decided to make it my career three years ago. I started by earning an Associate Degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
+Let me introduce myself. I'm Sergio, I'm 23 years old, and I've always been passionate about technology, although I only decided to make it my career three years ago. I started by earning an Associate Degree in Multiplatform Application Development (DAM), where I developed desktop applications using Java and mobile apps with Kotlin
 
-I later specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
+Later, I specialized in pentesting because I find it the most exciting area of cybersecurity. I run a personal blog where I publish write-ups and technical articles about PortSwigger labs and HackTheBox machines. To date, I've published over 230 articles and maintain a regular posting schedule as I prepare for my OSCP and BSCP certifications
 
-Working in this field, I've encountered many repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow so I can focus on more important challenges
+Working in this field, I've encountered many repetitive tasks, which led me to develop automation tools using Bash and Python. These tools help streamline my workflow, allowing me to focus on more important challenges
 
-I strongly believe English is essential in this industry. I earned my Cambridge B1 certification last year and am currently working toward my B2
+I strongly believe that English is essential in this industry. I earned my Cambridge B1 certification last year and am currently working toward my B2
 
 ## About Me 🚀
 - 🔭 Currently sharpening my pentesting skills
